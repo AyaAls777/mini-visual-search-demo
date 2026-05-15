@@ -57,6 +57,11 @@ This demonstrates a realistic limitation of embedding-based retrieval systems an
 
 ---
 
+## Test Images
+
+The example images used for testing high-confidence and ambiguous retrieval cases are included directly in this repository.
+---
+
 ## Tech Stack
 
 - Python
